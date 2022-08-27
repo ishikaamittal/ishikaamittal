@@ -1,13 +1,9 @@
-<h1 align="center">Hey, Ishika Mittal here</h1>
-<h3 align="center">A final year CSE Undergrad from New Delhi, India</h3>
+<h1 align="center">Hey, Ishika Mittal here!</h1>
 
-- 🌱 I’m currently exploring **Backend tools**
-
-- 👯 I’m open for collaborations on **Full-Stack projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ishikaamittal?tab=repositories](https://github.com/ishikaamittal?tab=repositories)
-
-- 📄 See my Resume [Resume.pdf](resume .pdf)
+-I am final undergrad student.
+-I’m currently exploring **Backend tools**
+-I’m open for collaborations on **Full-Stack projects**
+- 📄 See my Resume [Resume .pdf](Resume .pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,11 +24,12 @@
 ![Linux](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
 
 
-
 ## 🏆 *Github Status*
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ishikaamittal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
  <a href="https://github.com/ishikaamittal/github-readme-stats"><img alt="Ishika Mittal Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikaamittal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/><br>
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br>
 <br>
 <a href="https://github.com/ishikaamittal/github-readme-activity-graph"><img alt="Ishika Mittal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishikaamittal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
