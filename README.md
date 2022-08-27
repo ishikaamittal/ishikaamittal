@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishikaamittal?tab=repositories](https://github.com/ishikaamittal?tab=repositories)
 
-- 📄 See my Resume [Resume.pdf](Resume.pdf)
+- 📄 See my Resume [Resume](resume .pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
