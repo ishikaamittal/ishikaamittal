@@ -20,5 +20,5 @@
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=ishikaamittal-1&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ishikaamittal-1&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=ishikaamittal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ishikaamittal&theme=dark" width="48%" >
