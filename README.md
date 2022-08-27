@@ -1,6 +1,6 @@
 <h1 align="center">Hey, Ishika Mittal here!</h1>
 
-- I am final undergrad student.
+- I am final year undergrad student.
 - I’m currently exploring **Backend tools**
 - I’m open for collaborations on **Full-Stack projects**
 - 📄 See my [Resume](Resume.pdf)
