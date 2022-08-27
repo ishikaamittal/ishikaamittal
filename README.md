@@ -33,4 +33,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ishikaamittal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ishikaamittal&theme=dark" width="48%" >
-<a href="https://github.com/ishikaamittal?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<br>
+<br>
+<a href="https://github.com/ishikaamittal/github-readme-activity-graph"><img alt="Ishika Mittal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishikaamittal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
