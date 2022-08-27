@@ -32,7 +32,7 @@
 ## 🏆 *Github Status*
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ishikaamittal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ishikaamittal&theme=dark" width="48%" >
-<br>
+ <a href="https://github.com/ishikaamittal/github-readme-stats"><img alt="Ishika Mittal Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikaamittal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/><br>
 <br>
 <a href="https://github.com/ishikaamittal/github-readme-activity-graph"><img alt="Ishika Mittal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishikaamittal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
