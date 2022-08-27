@@ -22,7 +22,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Github](https://img.shields.io/badge/GitHub-F9AB00?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
-
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 ## 🏆 *Github Status*
 
