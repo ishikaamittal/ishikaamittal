@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Ishika Mittal here!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Ishika Mittal here!</h1>
 
 - I am final year undergrad student.
 - I’m currently exploring **Backend tools**
