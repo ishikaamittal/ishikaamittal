@@ -16,14 +16,21 @@
 </p>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-F9AB00?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Github](https://img.shields.io/badge/GitHub-F9AB00?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
+
 
 
 ## 🏆 *Github Status*
 
 <img  src="https://github-readme-stats.vercel.app/api?username=ishikaamittal&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ishikaamittal&theme=dark" width="48%" >
+<a href="https://github.com/ishikaamittal?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
