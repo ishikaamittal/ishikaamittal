@@ -1,9 +1,9 @@
 <h1 align="center">Hey, Ishika Mittal here!</h1>
 
--I am final undergrad student.
--I’m currently exploring **Backend tools**
--I’m open for collaborations on **Full-Stack projects**
-- 📄 See my Resume [Resume .pdf](Resume .pdf)
+- I am final undergrad student.
+- I’m currently exploring **Backend tools**
+- I’m open for collaborations on **Full-Stack projects**
+- 📄 See my Resume [Resume.pdf](Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
